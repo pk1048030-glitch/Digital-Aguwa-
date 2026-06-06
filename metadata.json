@@ -1,0 +1,6 @@
+{
+  "name": "Digital Aguwa",
+  "description": "Matchmaking app for Tier-2/3 and rural India, supporting traditional mediator dashboards, hyper-local village hierarchies, passcode-shielded profiles, and AI compatibility matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
